@@ -20,7 +20,7 @@ Then, the code activated the worksheet the analysis are going to report;
 After this step, the arrays are created and loops initialized and code finished with endtime function.
 The data types used in the code were single, and string before starting the refactoring. As it is reported these data types made the code's run time 0.2656 seconds.
 ![AllStockAnalysis Without Refactoring(2017)]([Report/AllStockAnalysis_without_refactoring(2017).png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2017).png)
-![AllStockAnalysis Without Refactoring(2018)]([Report/AllStockAnalysis_without_refactoring(2018).png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2018).png))
+![AllStockAnalysis Without Refactoring(2018)]([Report/AllStockAnalysis_without_refactoring(2018).png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2018).png)
 
 During the refactoring the index data type used which let me to reduce the size of the data and make it run faster. The results shown below for both 2017 and 2018 Analysis;
 ![VBA Challenge 2017]([VBA_Challenge_2017.png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2017).png)
