@@ -23,8 +23,9 @@ The data types used in the code were single, and string before starting the refa
 ![AllStockAnalysis Without Refactoring(2018)]([Report/AllStockAnalysis_without_refactoring(2018).png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2018).png)
 
 During the refactoring the index data type used which let me to reduce the size of the data and make it run faster. The results shown below for both 2017 and 2018 Analysis;
-![VBA Challenge 2017]([VBA_Challenge_2017.png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2017).png)
-![VBA Challenge 2018]([VBA_Challenge_2018.png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/VBA_Challenge_2018.png)
+
+([VBA_Challenge_2017.png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/AllStockAnalysis_without_refactoring(2017).png)
+([VBA_Challenge_2018.png](https://github.com/huzeyfecanbaz/stock-analysis/blob/daa5b9a4d33696a99393069fbf12e8b88af4e26b/Resources/VBA_Challenge_2018.png)
 The results explicitly exhibited that the refactoring works fine by reducing the code running time.
 
 ## Summary
